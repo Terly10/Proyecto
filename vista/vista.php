@@ -21,6 +21,15 @@
                     </tr>
                 <?php
             }
+            
+            
+            
+            
+        ?>
+                    
+        <?php
+        echo '<a href="../logout.php">CERRA SECION</a><br>';
+        echo '<br>';
         ?>
     </table>
 </body>
